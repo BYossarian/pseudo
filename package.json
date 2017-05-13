@@ -1,0 +1,26 @@
+{
+  "name": "pseudo",
+  "version": "1.0.0",
+  "description": "Some PRNGs implemented in JS.",
+  "main": "pseudo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BYossarian/pseudo.git"
+  },
+  "keywords": [
+    "prng",
+    "pseudorandom"
+  ],
+  "author": "Ben Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BYossarian/pseudo/issues"
+  },
+  "homepage": "https://github.com/BYossarian/pseudo"
+}
