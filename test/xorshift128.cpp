@@ -33,8 +33,7 @@ int main() {
 
     for (int i = 0; i < 250; i++) {
 
-        cout << xor128();
-        cout << "\n";
+        cout << xor128() << "\n";
 
     }
 
